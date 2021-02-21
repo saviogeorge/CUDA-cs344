@@ -1,6 +1,6 @@
 # CUDA-cs344
 
-## installation and setup
+## Installation and Setup
 
 I made use of microsoft visual studio in windows 10 environment to build and debug the project  
 The following resources where utilized  
