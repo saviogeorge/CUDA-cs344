@@ -1,0 +1,23 @@
+# CUDA-cs344
+
+## Installation and Setup
+
+I made use of microsoft visual studio in windows 10 environment to build and debug the project  
+The following resources where utilized  
+### OpenCV installation
+https://docs.opencv.org/master/d3/d52/tutorial_windows_install.html#tutorial_windows_install_prebuilt
+https://sourceforge.net/projects/opencvlibrary/files/opencv-win/
+https://medium.com/@subwaymatch/opencv-410-with-vs-2019-3d0bc0c81d9
+
+### CUDA debugger
+https://docs.nvidia.com/nsight-visual-studio-edition/3.2/Content/Debugging_CUDA_Application.htm
+https://developer.nvidia.com/nsight-visual-studio-edition
+https://docs.nvidia.com/nsight-visual-studio-edition/3.2/Content/Using_CUDA_Debugger.htm
+
+### Build and linking Issues
+https://stackoverflow.com/questions/49992595/visual-studio-2017-with-cuda-cannot-open-include-file-cuda-h
+https://stackoverflow.com/questions/9131638/erroridentifer-blockidx-is-undefined
+https://stackoverflow.com/questions/31711093/the-program-cant-start-because-opencv-world300-dll-is-missing-from-your-comput
+
+### Alternate option for setup
+[Link](https://medium.com/@narad1972/running-udacitys-intro-to-parallel-programming-course-examples-a9a535dcce85#id_token=eyJhbGciOiJSUzI1NiIsImtpZCI6ImZkYjQwZTJmOTM1M2M1OGFkZDY0OGI2MzYzNGU1YmJmNjNlNGY1MDIiLCJ0eXAiOiJKV1QifQ.eyJpc3MiOiJodHRwczovL2FjY291bnRzLmdvb2dsZS5jb20iLCJuYmYiOjE2MTM4NDIxMzUsImF1ZCI6IjIxNjI5NjAzNTgzNC1rMWs2cWUwNjBzMnRwMmEyamFtNGxqZGNtczAwc3R0Zy5hcHBzLmdvb2dsZXVzZXJjb250ZW50LmNvbSIsInN1YiI6IjExNjQ2NTY4ODg5OTIxOTk5Mzc1NyIsImVtYWlsIjoic2F2aW9nZW9yZ2UyMjg2QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJhenAiOiIyMTYyOTYwMzU4MzQtazFrNnFlMDYwczJ0cDJhMmphbTRsamRjbXMwMHN0dGcuYXBwcy5nb29nbGV1c2VyY29udGVudC5jb20iLCJuYW1lIjoiU2F2aW8gR2VvcmdlIiwicGljdHVyZSI6Imh0dHBzOi8vbGgzLmdvb2dsZXVzZXJjb250ZW50LmNvbS9hLS9BT2gxNEdob1BEZnkxV0FsNjJfOHFtYUt4d085RzJwTVIzVHB2UXpvSnNoVXFnPXM5Ni1jIiwiZ2l2ZW5fbmFtZSI6IlNhdmlvIiwiZmFtaWx5X25hbWUiOiJHZW9yZ2UiLCJpYXQiOjE2MTM4NDI0MzUsImV4cCI6MTYxMzg0NjAzNSwianRpIjoiNzU5OWYwNDYzMjhmMjQ0NzNmYWM4M2VmZjI3YTA5YjI0OWFkZmUyYSJ9.K3RsspJr4qo8cC4YUL4V6Ay1TJvst4wu9tCW0YcsoE0h7_jOHjOD2eG2rdXtQwA_-d-Az32I0KzW8WTqbWzvpRQDkd3y5k63Mp15NiTTDYVm9k6U4R3n9vSrs8TMHjBrKujz__4_d8GbPTo2p1W0wA9XtqeBhb9y8d4k9ECoT4W6Zq7Q0Goj08dThVuuGVt2jvlx7aMcvXnpkQAe2olGA0ZUn_0bxvfHsqbQEmYJq2N2um81GG-HUlURfPQRCspVlXsEfFWCm5ER1SCSo2iDcXQkWEcBaSvcO0xuPLvXC1kMmtny-lxBZV-lz9Z_ykN-sUMrJfQsseJziL_2OXMBLQ)
